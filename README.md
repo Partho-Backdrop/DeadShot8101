@@ -18,11 +18,11 @@
 
 - 🔭 I’m currently working at **Backdrop Interactive Ltd.**
 
+- 📫 How to reach me **partho@backdropint.com**
+
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **anything**
-
-- 📫 How to reach me **partho15-12151@diu.edu.bd**
 
 - ⚡ Fun fact **I am too lazy**
 
