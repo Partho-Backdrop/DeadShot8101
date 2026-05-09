@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Partho</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DeaDShoT8101&label=Profile%20views&color=4DC71F&style=flat" alt="DeaDShoT8101" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DeaDShoT8101&label=Profile%20views&color=4DC71F&style=flat" alt="Partho-Backdrop" /> <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
     <img src="https://img.shields.io/badge/Age-26-brighteen"/> 
   </a>
   <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
@@ -16,13 +16,9 @@
   <img x height=90 width=800 src="https://github-profile-trophy.vercel.app/?username=DeaDShoT8101&column=8&theme=onedark&no-frame=true"/>
 </p>
 
-- 🔭 I’m currently working on **Discord Bot Development**
-
-- 🌱 I’m currently learning **HTML,CSS,JS,React**
+- 🔭 I’m currently working at **Backdrop Interactive Ltd.**
 
 - 👯 I’m looking to collaborate on **Open Source**
-
-- 🤝 I’m looking for help with **html/css/js/npm, Frontend development**
 
 - 💬 Ask me about **anything**
 
@@ -34,7 +30,7 @@
 
 <h3 align="center">
     
-[![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/Partho8101/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1A1B27?style=flat&logo=facebook&labelColor=252526)](https://www.facebook.com/Partho191/)
 [![Instagram](https://img.shields.io/badge/-Instagram-1A1B27?style=flat&logo=instagram&labelColor=252526)](https://www.instagram.com/deadshot12151/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1A1B27?style=flat&logo=twitter&labelColor=252526)](https://twitter.com/ParthoRoy8101)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-1A1B27?style=flat&logo=linkedin&labelColor=242424)](https://www.linkedin.com/in/partho191/)
@@ -75,8 +71,8 @@
 
 <h4 align="center">Top langs :tongue: :</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeaDShoT8101&langs_count=10&theme=tokyonight&layout=compact" alt="DeaDShoT8101" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeaDShoT8101&langs_count=10&theme=tokyonight&layout=compact" alt="Partho-Backdrop" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DeaDShoT8101&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="DeaDShoT8101" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Partho-Backdrop&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=tokyonight" alt="Partho-Backdrop" /></p>
 
 
